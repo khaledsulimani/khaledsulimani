@@ -645,6 +645,8 @@ Problem Solving        ███████████████████
 
 ### ⚡ Current Status: Building the Future, One Line of Code at a Time
 
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 ---
@@ -660,7 +662,5 @@ Problem Solving        ███████████████████
 <p align="center">
   <sub>Last Updated: October 2025</sub>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
 
 </div>
