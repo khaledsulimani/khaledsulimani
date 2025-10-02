@@ -22,7 +22,13 @@
 
 ---
 
+<div align="center">
+
 ## 🎯 About Me
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
+</div>
 
 ```python
 class KhaledSulaimani:
@@ -55,12 +61,21 @@ class KhaledSulaimani:
 ```
 
 <div align="center">
-  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
 ### 🌟 Quick Facts
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img align="right" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+</td>
+<td width="50%" valign="top">
 
 - 🎓 **4th Year CS Student** at Umm Al-Qura University
 - 🏢 **Smart Methods Internship** - 6 Months (AI, Robotics, Smart Systems)
@@ -73,6 +88,10 @@ class KhaledSulaimani:
 - 🤝 Open to **collaborate on innovative projects**
 - 📧 Reach me: **khaled.sul2004@gmail.com**
 - ⚡ Fun fact: **100% Client Satisfaction Rate!**
+
+</td>
+</tr>
+</table>
 
 ---
 
