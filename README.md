@@ -106,65 +106,52 @@ class KhaledSulaimani:
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> **Face Recognition LED Trigger** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" />
+<div align="center">
 
-AI-powered face detection using HuskyLens & Arduino
+### 🤖 Face Recognition LED Trigger
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 
-**Tech Stack:**
-- Arduino UNO
-- HuskyLens AI Camera
-- Computer Vision
-- IoT Integration
+**AI-powered face detection using HuskyLens & Arduino**
 
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/khaledsulimani/huskylens)
+</div>
 
-</td>
-<td width="50%" valign="top">
+**⚡ Tech Stack:**
+- 🔹 Arduino UNO
+- 🔹 HuskyLens AI Camera
+- 🔹 Computer Vision
+- 🔹 IoT Integration
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> **Chatbot App** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" />
+<div align="center">
 
-Modern conversational AI with Flutter
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledsulimani/huskylens)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-**Tech Stack:**
-- Flutter & Dart
-- Advanced NLP
-- Real-time AI
-- Beautiful UI
-
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/khaledsulimani/chatbot-app)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> **Robot Arm Control (Flutter)** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" />
-
-Complete mobile app for 4-motor robot arm control
-
-**Tech Stack:**
-- Flutter & Dart
-- PHP Backend
-- MySQL Database
-- Real-time Controls
-
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/khaledsulimani/robot-arm-flutter)
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> **Sudoku Solver Analyzer** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" />
+<div align="center">
 
-AI-powered Sudoku solver with detailed analysis
+### 💬 Chatbot App
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
 
-**Tech Stack:**
-- Python
-- AI Algorithms
-- Advanced Logic
-- User-friendly UI
+**Modern conversational AI with Flutter**
 
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/khaledsulimani/Sudoku-Solver-Analyzer)
+</div>
+
+**⚡ Tech Stack:**
+- 🔹 Flutter & Dart
+- 🔹 Advanced NLP
+- 🔹 Real-time AI
+- 🔹 Beautiful UI
+
+<div align="center">
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledsulimani/chatbot-app)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+</div>
 
 </td>
 </tr>
@@ -172,32 +159,52 @@ AI-powered Sudoku solver with detailed analysis
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> **Web Robot Arm Control** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" />
+<div align="center">
 
-6-motor robot arm control via web interface
+### 🦾 Robot Arm Control (Flutter)
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="300">
 
-**Tech Stack:**
-- HTML/CSS/JS
-- PHP Backend
-- MySQL
-- Real-time Sliders
+**Complete mobile app for 4-motor robot arm control**
 
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/khaledsulimani/control-servo-via-php)
+</div>
+
+**⚡ Tech Stack:**
+- 🔹 Flutter & Dart
+- 🔹 PHP Backend
+- 🔹 MySQL Database
+- 🔹 Real-time Controls
+
+<div align="center">
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledsulimani/robot-arm-flutter)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> **Smart RC Car** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" />
+<div align="center">
 
-Autonomous obstacle avoidance RC car
+### 🧩 Sudoku Solver Analyzer
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="300">
 
-**Tech Stack:**
-- Arduino
-- L293D Motor Driver
-- Ultrasonic Sensor
-- C++ Programming
+**AI-powered Sudoku solver with detailed analysis**
 
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/khaledsulimani/l293d)
+</div>
+
+**⚡ Tech Stack:**
+- 🔹 Python
+- 🔹 AI Algorithms
+- 🔹 Advanced Logic
+- 🔹 User-friendly UI
+
+<div align="center">
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledsulimani/Sudoku-Solver-Analyzer)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+
+</div>
 
 </td>
 </tr>
@@ -205,32 +212,105 @@ Autonomous obstacle avoidance RC car
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> **AI Voice Assistant (Arabic)** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" />
+<div align="center">
 
-Intelligent Arabic voice assistant
+### 🌐 Web Robot Arm Control
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="300">
 
-**Tech Stack:**
-- Python
-- Cohere AI
-- Speech Recognition
-- gTTS & NLP
+**6-motor robot arm control via web interface**
 
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/khaledsulimani/ai_voicechat)
+</div>
+
+**⚡ Tech Stack:**
+- 🔹 HTML/CSS/JS
+- 🔹 PHP Backend
+- 🔹 MySQL
+- 🔹 Real-time Sliders
+
+<div align="center">
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledsulimani/control-servo-via-php)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> **More Projects** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" />
+<div align="center">
 
-Check out my repositories for more!
+### 🚗 Smart RC Car
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="300">
 
-**15+ Projects Completed**
-- IoT Systems
-- Web Applications
-- AI Solutions
-- Hardware Projects
+**Autonomous obstacle avoidance RC car**
 
-[![View All](https://img.shields.io/badge/View%20All-181717?style=for-the-badge&logo=github)](https://github.com/khaledsulimani?tab=repositories)
+</div>
+
+**⚡ Tech Stack:**
+- 🔹 Arduino
+- 🔹 L293D Motor Driver
+- 🔹 Ultrasonic Sensor
+- 🔹 C++ Programming
+
+<div align="center">
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledsulimani/l293d)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🎙️ AI Voice Assistant (Arabic)
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="300">
+
+**Intelligent Arabic voice assistant**
+
+</div>
+
+**⚡ Tech Stack:**
+- 🔹 Python
+- 🔹 Cohere AI
+- 🔹 Speech Recognition
+- 🔹 gTTS & NLP
+
+<div align="center">
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledsulimani/ai_voicechat)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌟 More Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+**Check out my repositories for more!**
+
+</div>
+
+**🎯 15+ Projects Completed:**
+- 🔹 IoT Systems
+- 🔹 Web Applications
+- 🔹 AI Solutions
+- 🔹 Hardware Projects
+
+<div align="center">
+
+[![View All](https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledsulimani?tab=repositories)
+![Projects](https://img.shields.io/badge/Projects-15+-blue?style=for-the-badge)
+
+</div>
 
 </td>
 </tr>
