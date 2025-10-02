@@ -187,8 +187,6 @@ class KhaledSulaimani:
 <div align="center">
 
 ### 🧩 Sudoku Solver Analyzer
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="300">
-
 **AI-powered Sudoku solver with detailed analysis**
 
 </div>
@@ -215,8 +213,6 @@ class KhaledSulaimani:
 <div align="center">
 
 ### 🌐 Web Robot Arm Control
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="300">
-
 **6-motor robot arm control via web interface**
 
 </div>
@@ -240,8 +236,6 @@ class KhaledSulaimani:
 <div align="center">
 
 ### 🚗 Smart RC Car
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="300">
-
 **Autonomous obstacle avoidance RC car**
 
 </div>
@@ -268,8 +262,6 @@ class KhaledSulaimani:
 <div align="center">
 
 ### 🎙️ AI Voice Assistant (Arabic)
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="300">
-
 **Intelligent Arabic voice assistant**
 
 </div>
@@ -293,8 +285,6 @@ class KhaledSulaimani:
 <div align="center">
 
 ### 🌟 More Projects
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
 **Check out my repositories for more!**
 
 </div>
@@ -427,14 +417,24 @@ class KhaledSulaimani:
 %%{init: {'theme':'dark'}}%%
 timeline
     title My Professional Journey
-    2024 : Smart Methods Internship
-         : AI Development
+    2022 : Frist Year In Univercity
+         : Studying Math
+         : Studying Logical Design
+         : Basic Program
+    2023 : Learning Database
+         : Studying Tech Writeing
+         : Learning About Opreating Systems
+         : Learing Java And Other Progarm Language 
+    2024 : Advanced Database
+         : Software Engeneer
+         : Learning In AI And Web
+         : Prepare For Internship
+    2025 : Full-Stack Robotics Engineer
+         : 25+ Projects Completed
+         : Smart Methods Internship
+         : AI Developmentther
          : Robotics Projects
          : Smart Systems
-    2025 : Full-Stack Robotics Engineer
-         : 15+ Projects Completed
-         : 100% Client Satisfaction
-         : Open for Opportunities
 ```
 
 </div>
