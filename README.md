@@ -109,8 +109,6 @@ class KhaledSulaimani:
 <div align="center">
 
 ### 🤖 Face Recognition LED Trigger
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-
 **AI-powered face detection using HuskyLens & Arduino**
 
 </div>
@@ -134,8 +132,6 @@ class KhaledSulaimani:
 <div align="center">
 
 ### 💬 Chatbot App
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
-
 **Modern conversational AI with Flutter**
 
 </div>
@@ -162,8 +158,6 @@ class KhaledSulaimani:
 <div align="center">
 
 ### 🦾 Robot Arm Control (Flutter)
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="300">
-
 **Complete mobile app for 4-motor robot arm control**
 
 </div>
@@ -666,5 +660,7 @@ Problem Solving        ███████████████████
 <p align="center">
   <sub>Last Updated: October 2025</sub>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
 
 </div>
